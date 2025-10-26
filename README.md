@@ -5,4 +5,4 @@
 
 [english version](en.md)
 
-[ko-KR version ](ko.md)
+[ko-KR version ](kr.md)
